@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/adaptivepitch/static/css/main.073c9b0a.css",
-    "main.js": "/adaptivepitch/static/js/main.5784b028.js",
+    "main.js": "/adaptivepitch/static/js/main.9d82b492.js",
     "static/js/787.5c1e7beb.chunk.js": "/adaptivepitch/static/js/787.5c1e7beb.chunk.js",
     "index.html": "/adaptivepitch/index.html",
     "main.073c9b0a.css.map": "/adaptivepitch/static/css/main.073c9b0a.css.map",
-    "main.5784b028.js.map": "/adaptivepitch/static/js/main.5784b028.js.map",
+    "main.9d82b492.js.map": "/adaptivepitch/static/js/main.9d82b492.js.map",
     "787.5c1e7beb.chunk.js.map": "/adaptivepitch/static/js/787.5c1e7beb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.5784b028.js"
+    "static/js/main.9d82b492.js"
   ]
 }
